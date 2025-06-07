@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.b53c5f85.css",
+    "main.js": "/Portfolio/static/js/main.e598448c.js",
+    "static/js/453.4dd8ebec.chunk.js": "/Portfolio/static/js/453.4dd8ebec.chunk.js",
+    "static/media/logo1.png": "/Portfolio/static/media/logo1.c632bb8ae2b0cb3b7520.png",
+    "static/media/instagram.png": "/Portfolio/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/ide.png": "/Portfolio/static/media/ide.d8fd354f6fb8e08642d5.png",
+    "static/media/database.png": "/Portfolio/static/media/database.05fa263269de2eef7a23.png",
+    "static/media/rest.png": "/Portfolio/static/media/rest.8f0f064e1eee3d0a34f4.png",
+    "static/media/backend.png": "/Portfolio/static/media/backend.74da98c067353836c837.png",
+    "static/media/github2.png": "/Portfolio/static/media/github2.8f4d621c8aafec8f9693.png",
+    "static/media/django1.png": "/Portfolio/static/media/django1.6b8bc44bd0c3990ca418.png",
+    "static/media/whatsapp.png": "/Portfolio/static/media/whatsapp.97b90b6e3f8c70254204.png",
+    "static/media/Frontend.png": "/Portfolio/static/media/Frontend.0933aa5588273f4007be.png",
+    "static/media/github.png": "/Portfolio/static/media/github.a855c3975c028d8069f5.png",
+    "static/media/Visual.png": "/Portfolio/static/media/Visual.c451d51c85d02c2a3841.png",
+    "static/media/facebook.png": "/Portfolio/static/media/facebook.49e67d43221b6bb1aa86.png",
+    "static/media/sublime.png": "/Portfolio/static/media/sublime.3b27fa0f2cb7b2584821.png",
+    "static/media/css.png": "/Portfolio/static/media/css.8aaf7833370a6845139c.png",
+    "static/media/gmail.png": "/Portfolio/static/media/gmail.a2f2146f929409405da0.png",
+    "static/media/linkedin.png": "/Portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/python.png": "/Portfolio/static/media/python.9c47735ea0c4a2d20349.png",
+    "static/media/up.png": "/Portfolio/static/media/up.2586910534f1100c9e82.png",
+    "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.5f221ec70518e4c64eaa.png",
+    "index.html": "/Portfolio/index.html",
+    "main.b53c5f85.css.map": "/Portfolio/static/css/main.b53c5f85.css.map",
+    "main.e598448c.js.map": "/Portfolio/static/js/main.e598448c.js.map",
+    "453.4dd8ebec.chunk.js.map": "/Portfolio/static/js/453.4dd8ebec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b53c5f85.css",
+    "static/js/main.e598448c.js"
+  ]
+}
